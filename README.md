@@ -1,2 +1,4 @@
 # hello-world
-just a hello-world repository
+Hi Humans!
+
+I like github!!!! I like writing program!
